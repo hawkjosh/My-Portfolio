@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css",
-    "main.js": "/module20-react-portfolio-challenge/static/js/main.6764dee7.js",
+    "main.js": "/module20-react-portfolio-challenge/static/js/main.205ee77e.js",
     "static/js/787.c482b22c.chunk.js": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js",
     "static/media/message_forum.png": "/module20-react-portfolio-challenge/static/media/message_forum.7f41a265f3ae3e4616f5.png",
     "static/media/song_search.png": "/module20-react-portfolio-challenge/static/media/song_search.515930311c6cba60e078.png",
@@ -40,11 +40,11 @@
     "static/media/handlebars.png": "/module20-react-portfolio-challenge/static/media/handlebars.0a92e9b48c107702669b.png",
     "index.html": "/module20-react-portfolio-challenge/index.html",
     "main.0f69a310.css.map": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css.map",
-    "main.6764dee7.js.map": "/module20-react-portfolio-challenge/static/js/main.6764dee7.js.map",
+    "main.205ee77e.js.map": "/module20-react-portfolio-challenge/static/js/main.205ee77e.js.map",
     "787.c482b22c.chunk.js.map": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f69a310.css",
-    "static/js/main.6764dee7.js"
+    "static/js/main.205ee77e.js"
   ]
 }
