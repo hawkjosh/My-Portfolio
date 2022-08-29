@@ -29,16 +29,16 @@ import WebPack from '../assets/img/toolbox/webpack.png';
 import Stack from 'react-bootstrap/Stack'
 
 
-const icon = { width: '3.75rem', marginTop: "10px", marginBottom: '10px'};
+const icon = { width: '2rem', margin: "15px 20px"};
 
 export default function Toolbox() {
   return (
-    <section className="d-flex flex-column">
-        <div className="page-section-heading text-center mb-4">
-          <h1>My Toolbox</h1>
+    <section className="d-flex flex-column mx-0">
+        <div className="text-center mb-3">
+          <h2>My Toolbox</h2>
         </div>
 
-          <Stack className="conatiner flex-wrap justify-content-center" direction="horizontal" gap={3}>
+          <Stack className="container flex-wrap justify-content-center mx-0" direction="horizontal" gap={3}>
             <img src={Apollo} alt="Apollo" style={icon} />
             <img src={Babel} alt="Babel" style={icon} />
             <img src={Bootstrap} alt="Bootstrap" style={icon} />
