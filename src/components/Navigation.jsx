@@ -7,7 +7,7 @@ export default function Navigation() {
   return (
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
       <div class="container">
-        <Link to='/' >
+        <Link to='/module20-react-portfolio-challenge' >
           <a class="navbar-brand" href="mainNav"><FontAwesomeIcon icon="square-h" className="text-primary" />&nbsp; The Hawk's Nest</a>
         </Link>
 
