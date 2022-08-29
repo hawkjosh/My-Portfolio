@@ -4,7 +4,7 @@ import Stack from 'react-bootstrap/Stack';
 
 export default function Footer() {
   return (
-    <footer className="footer text-center py-2">
+    <footer className="footer text-center">
       <div className="container">
         <Stack direction="horizontal">
           <div className="container col-lg-4">

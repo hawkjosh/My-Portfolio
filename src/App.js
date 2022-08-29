@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation.jsx';
-import Header from './components/Header.jsx';
+import Main from './components/Main.jsx';
 import About from './components/About.jsx';
 import Portfolio from './components/Portfolio.jsx';
 import Contact from './components/Contact.jsx';
@@ -14,7 +14,7 @@ export default function App() {
           <Navigation />
             <div>
               <Routes>
-                <Route exact path="/" element={<Header />} />
+                <Route exact path="/" element={<Main />} />
                 <Route exact path="/about" element={<About />} />
                 <Route exact path="/portfolio" element={<Portfolio />} />
                 <Route exact path="/contact" element={<Contact />} />

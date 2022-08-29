@@ -14,10 +14,10 @@ export default function Portfolio() {
       <div className="page-section">
         <h2 className="page-section-heading text-center text-uppercase text-white m-auto">My Portfolio</h2>
 
-        <div className="divider-custom divider-light">
+        <div className="divider-custom divider-light mb-5">
             <div className="divider-custom-line"></div>
               <div className="divider-custom-icon">
-                <FontAwesomeIcon icon="fa-regular fa-star" />
+                <FontAwesomeIcon icon="fa-regular fa-folder" />
               </div>
             <div className="divider-custom-line bg-white"></div>
         </div>
@@ -32,7 +32,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal1">
-                <img className="img-fluid" src={messageForum} alt="Message Forum App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={messageForum} alt="Message Forum App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -46,7 +46,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal2">
-                <img className="img-fluid" src={noteTaker} alt="Note Taker App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={noteTaker} alt="Note Taker App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -60,7 +60,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal3">
-                <img className="img-fluid" src={songSearch} alt="Song Search App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={songSearch} alt="Song Search App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -74,7 +74,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal4">
-                <img className="img-fluid" src={weatherDashboard} alt="Weather Dashboard App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={weatherDashboard} alt="Weather Dashboard App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal5">
-                <img className="img-fluid" src={workdayScheduler} alt="Workday Scheduler App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={workdayScheduler} alt="Workday Scheduler App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -102,7 +102,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal6">
-                <img className="img-fluid" src={codeQuiz} alt="Code Quiz App" style={{border: "0.5rem solid #126d5b"}} />
+                <img className="img-fluid" src={codeQuiz} alt="Code Quiz App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
