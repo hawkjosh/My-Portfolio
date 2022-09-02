@@ -1,11 +1,11 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import socialNetwork from '../assets/img/portfolio/social_network.png';
 import messageForum from '../assets/img/portfolio/message_forum.png';
-import noteTaker from '../assets/img/portfolio/note_taker.png';
 import songSearch from '../assets/img/portfolio/song_search.png';
+import noteTaker from '../assets/img/portfolio/note_taker.png';
 import weatherDashboard from '../assets/img/portfolio/weather_dashboard.png';
 import workdayScheduler from '../assets/img/portfolio/workday_scheduler.png';
-import codeQuiz from '../assets/img/portfolio/code_quiz.png';
 import Modals from '../components/Modals.jsx';
 
 export default function Portfolio() {
@@ -23,30 +23,32 @@ export default function Portfolio() {
         </div>
 
         <div className="row justify-content-center">
-          <div className="col-md-6 col-lg-4 mb-5">
+
+        <div className="col-md-6 col-lg-4 mb-5">
             <div className="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+              <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                <div className="portfolio-item-caption-content text-center text-white">
+                  <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
+                  <h4 className="text-white fw-bold text-center">Social Network</h4>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal1">
+                <img className="img-fluid" src={socialNetwork} alt="Social Network App" style={{border: "0.3rem solid #2c3e50"}} />
+              </a>
+            </div>
+          </div>
+
+          
+          <div className="col-md-6 col-lg-4 mb-5">
+            <div className="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
               <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                 <div className="portfolio-item-caption-content text-center text-white">
                   <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
                   <h4 className="text-white fw-bold text-center">Message Forum</h4>
                 </div>
               </div>
-              <a data-toggle="modal" href="#portfolioModal1">
-                <img className="img-fluid" src={messageForum} alt="Message Forum App" style={{border: "0.3rem solid #2c3e50"}} />
-              </a>
-            </div>
-          </div>
-
-          <div className="col-md-6 col-lg-4 mb-5">
-            <div className="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
-              <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                <div className="portfolio-item-caption-content text-center text-white">
-                  <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
-                  <h4 className="text-white fw-bold text-center">Note Taker</h4>
-                </div>
-              </div>
               <a data-toggle="modal" href="#portfolioModal2">
-                <img className="img-fluid" src={noteTaker} alt="Note Taker App" style={{border: "0.3rem solid #2c3e50"}} />
+                <img className="img-fluid" src={messageForum} alt="Message Forum App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -70,11 +72,11 @@ export default function Portfolio() {
               <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                 <div className="portfolio-item-caption-content text-center text-white">
                   <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
-                  <h4 className="text-white fw-bold text-center">Weather Dashboard</h4>
+                  <h4 className="text-white fw-bold text-center">Note Taker</h4>
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal4">
-                <img className="img-fluid" src={weatherDashboard} alt="Weather Dashboard App" style={{border: "0.3rem solid #2c3e50"}} />
+                <img className="img-fluid" src={noteTaker} alt="Note Taker App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -84,11 +86,11 @@ export default function Portfolio() {
               <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                 <div className="portfolio-item-caption-content text-center text-white">
                   <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
-                  <h4 className="text-white fw-bold text-center">Workday Scheduler</h4>
+                  <h4 className="text-white fw-bold text-center">Weather Dashboard</h4>
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal5">
-                <img className="img-fluid" src={workdayScheduler} alt="Workday Scheduler App" style={{border: "0.3rem solid #2c3e50"}} />
+                <img className="img-fluid" src={weatherDashboard} alt="Weather Dashboard App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
@@ -98,11 +100,11 @@ export default function Portfolio() {
               <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                 <div className="portfolio-item-caption-content text-center text-white">
                   <FontAwesomeIcon icon="rocket" style={{width: "50%", height: "50%", color: "#2c3e50"}}/>
-                  <h4 className="text-white fw-bold text-center">Code Quiz</h4>
+                  <h4 className="text-white fw-bold text-center">Workday Scheduler</h4>
                 </div>
               </div>
               <a data-toggle="modal" href="#portfolioModal6">
-                <img className="img-fluid" src={codeQuiz} alt="Code Quiz App" style={{border: "0.3rem solid #2c3e50"}} />
+                <img className="img-fluid" src={workdayScheduler} alt="Workday Scheduler App" style={{border: "0.3rem solid #2c3e50"}} />
               </a>
             </div>
           </div>
