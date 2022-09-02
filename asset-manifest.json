@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css",
-    "main.js": "/module20-react-portfolio-challenge/static/js/main.40c7aae9.js",
+    "main.js": "/module20-react-portfolio-challenge/static/js/main.32ee30a8.js",
     "static/js/787.c482b22c.chunk.js": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js",
     "static/media/message_forum.png": "/module20-react-portfolio-challenge/static/media/message_forum.7f41a265f3ae3e4616f5.png",
     "static/media/song_search.png": "/module20-react-portfolio-challenge/static/media/song_search.515930311c6cba60e078.png",
-    "static/media/code_quiz.png": "/module20-react-portfolio-challenge/static/media/code_quiz.41e88e13e8538d304b02.png",
     "static/media/workday_scheduler.png": "/module20-react-portfolio-challenge/static/media/workday_scheduler.8861290be93858d028bb.png",
     "static/media/weather_dashboard.png": "/module20-react-portfolio-challenge/static/media/weather_dashboard.cdee53f71f24daaa432b.png",
     "static/media/react.png": "/module20-react-portfolio-challenge/static/media/react.1dfc7c001f7e0852a642.png",
     "static/media/sequelize.png": "/module20-react-portfolio-challenge/static/media/sequelize.aaf9d4da51f7911860ec.png",
+    "static/media/social_network.png": "/module20-react-portfolio-challenge/static/media/social_network.f28bb001300fe2ebcf80.png",
     "static/media/jest.png": "/module20-react-portfolio-challenge/static/media/jest.6f21317a01f2a1272dea.png",
     "static/media/momentjs.png": "/module20-react-portfolio-challenge/static/media/momentjs.65b025dd7d40075a16c9.png",
     "static/media/redux.png": "/module20-react-portfolio-challenge/static/media/redux.1d769e593a0ecb047411.png",
@@ -40,11 +40,11 @@
     "static/media/handlebars.png": "/module20-react-portfolio-challenge/static/media/handlebars.0a92e9b48c107702669b.png",
     "index.html": "/module20-react-portfolio-challenge/index.html",
     "main.0f69a310.css.map": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css.map",
-    "main.40c7aae9.js.map": "/module20-react-portfolio-challenge/static/js/main.40c7aae9.js.map",
+    "main.32ee30a8.js.map": "/module20-react-portfolio-challenge/static/js/main.32ee30a8.js.map",
     "787.c482b22c.chunk.js.map": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f69a310.css",
-    "static/js/main.40c7aae9.js"
+    "static/js/main.32ee30a8.js"
   ]
 }
