@@ -6,15 +6,15 @@ export default function Contact() {
     <section className="page-section" id="contact">
       <div className="page-section">
         <h2 className="page-section-heading text-center text-uppercase text-secondary m-auto">Contact Me</h2>
-             <div className="divider-custom divider mb-5">
-           <div className="divider-custom-line"></div>
-             <div className="divider-custom-icon">
-               <FontAwesomeIcon icon="fa-regular fa-pen-to-square" />
-             </div>
-           <div className="divider-custom-line"></div>
-         </div>
-         <div className="container">
-          <form target="_blank" action="https://formsubmit.co/your@email.com" method="POST">
+        <div className="divider-custom divider mb-5">
+          <div className="divider-custom-line"></div>
+          <div className="divider-custom-icon">
+            <FontAwesomeIcon icon="fa-regular fa-pen-to-square" />
+          </div>
+          <div className="divider-custom-line"></div>
+        </div>
+        <div className="container">
+          <form target="_blank" action="https://formsubmit.co/hawkjosh@icloud.com" method="POST">
             <div className="form-group" id="contactForm">
               <div className="form-row">
                 <div className="col mb-2">
@@ -23,15 +23,15 @@ export default function Contact() {
                 <div className="col mb-2">
                   <input type="email" name="email" className="form-control" placeholder="Email Address" required></input>
                 </div>
+                <div className="form-group mb-2">
+                  <textarea placeholder="Your Message" className="form-control" name="message" rows="10" required></textarea>
+                  <button type="submit" className="btn btn-lg btn-secondary btn-block">Submit Form</button>
+                </div>
               </div>
             </div>
-            <div className="form-group mb-2">
-              <textarea placeholder="Your Message" className="form-control" name="message" rows="10" required></textarea>
-            </div>
-            <button type="submit" className="btn btn-lg btn-secondary btn-block">Submit Form</button>
           </form>
-          </div>
         </div>
-      </section>
-    )
-  };
+      </div>
+    </section>
+  )
+};

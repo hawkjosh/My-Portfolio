@@ -5,15 +5,15 @@ import NavCollapse from '../components/NavCollapse.jsx';
 
 export default function Navigation() {
   return (
-    <nav className="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
-      <div className="container">
+    <section className="navbar fixed-top text-white text-decoration-none" id="mainNav">
+      <div className="">
         <Link to='/module20-react-portfolio-challenge' >
-          <a className="navbar-brand text-white" href="mainNav"><FontAwesomeIcon className="text-primary" icon="square-h" />&nbsp; The Hawk's Nest</a>
+          <a className="fs-1 text-uppercase" href="mainNav"><FontAwesomeIcon icon="square-h" />&nbsp; The Hawk's Nest</a>
         </Link>
-
-        <NavCollapse />
-
       </div>
-    </nav>
+      <div className="">
+        <NavCollapse />
+      </div>
+    </section>
   )
 };
