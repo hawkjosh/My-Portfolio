@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css",
-    "main.js": "/module20-react-portfolio-challenge/static/js/main.32ee30a8.js",
-    "static/js/787.c482b22c.chunk.js": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js",
+    "main.js": "/module20-react-portfolio-challenge/static/js/main.a992f4ac.js",
+    "static/js/496.98c18c87.chunk.js": "/module20-react-portfolio-challenge/static/js/496.98c18c87.chunk.js",
     "static/media/message_forum.png": "/module20-react-portfolio-challenge/static/media/message_forum.7f41a265f3ae3e4616f5.png",
     "static/media/song_search.png": "/module20-react-portfolio-challenge/static/media/song_search.515930311c6cba60e078.png",
     "static/media/workday_scheduler.png": "/module20-react-portfolio-challenge/static/media/workday_scheduler.8861290be93858d028bb.png",
@@ -40,11 +40,11 @@
     "static/media/handlebars.png": "/module20-react-portfolio-challenge/static/media/handlebars.0a92e9b48c107702669b.png",
     "index.html": "/module20-react-portfolio-challenge/index.html",
     "main.0f69a310.css.map": "/module20-react-portfolio-challenge/static/css/main.0f69a310.css.map",
-    "main.32ee30a8.js.map": "/module20-react-portfolio-challenge/static/js/main.32ee30a8.js.map",
-    "787.c482b22c.chunk.js.map": "/module20-react-portfolio-challenge/static/js/787.c482b22c.chunk.js.map"
+    "main.a992f4ac.js.map": "/module20-react-portfolio-challenge/static/js/main.a992f4ac.js.map",
+    "496.98c18c87.chunk.js.map": "/module20-react-portfolio-challenge/static/js/496.98c18c87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f69a310.css",
-    "static/js/main.32ee30a8.js"
+    "static/js/main.a992f4ac.js"
   ]
 }
