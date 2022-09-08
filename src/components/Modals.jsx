@@ -67,7 +67,7 @@ export default function Modals() {
                         <a className="project-link text-white fw-bold" href="https://glacial-tor-15581.herokuapp.com" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Wookies-Gold-Full-Stack" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Message-Forum" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
@@ -98,10 +98,10 @@ export default function Modals() {
                     <p className="ms-4 mb-4 fs-4 text-start">A small but powerful music search tool that uses third party API's to retrieve song information via RESTful CRUD routes.</p>
                     <div className="container d-flex flex-row justify-content-around">
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://oz4tech.github.io/TSG-APP-Project-1" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
+                        <a className="project-link text-white fw-bold" href="https://hawkjosh.github.io/Song-Search" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/TSG-Front-End" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Song-Search" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
@@ -135,7 +135,7 @@ export default function Modals() {
                         <a className="project-link text-white fw-bold" href="https://secure-ravine-29968.herokuapp.com" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/module11-note-taker-challenge" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Note-Taker" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
@@ -166,10 +166,10 @@ export default function Modals() {
                     <p className="ms-4 mb-4 fs-4 text-start">A nifty weather widget app that runs in the browser and retrieves current as well as forectast weather info via the OpenWeatherMap API.</p>
                     <div className="container d-flex flex-row justify-content-around">
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://hawkjosh.github.io/module6-weather-dashboard-challenge" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
+                        <a className="project-link text-white fw-bold" href="https://hawkjosh.github.io/Weather-Dashboard" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/module6-weather-dashboard-challenge" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Weather-Dashboard" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
@@ -200,10 +200,10 @@ export default function Modals() {
                     <p className="ms-4 mb-4 fs-4 text-start">A simple calendar/planner app that runs in the browser and features dynamically updated HTML and CSS powered by jQuery.</p>
                     <div className="container d-flex flex-row justify-content-around">
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://hawkjosh.github.io/module5-work-scheduler-challenge" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
+                        <a className="project-link text-white fw-bold" href="https://hawkjosh.github.io/Workday-Scheduler" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/module5-work-scheduler-challenge" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Workday-Scheduler" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
