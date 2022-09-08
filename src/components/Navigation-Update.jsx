@@ -7,7 +7,7 @@ export default function Navigation() {
   return (
     <section className="navbar fixed-top text-white text-decoration-none" id="mainNav">
       <div className="">
-        <Link to='/module20-react-portfolio-challenge' >
+        <Link to='/' >
           <a className="fs-1 text-uppercase" href="mainNav"><FontAwesomeIcon icon="square-h" />&nbsp; The Hawk's Nest</a>
         </Link>
       </div>
