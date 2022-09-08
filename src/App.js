@@ -14,10 +14,10 @@ export default function App() {
           <Navigation />
             <div>
               <Routes>
-                <Route exact path="/" element={<Main />} />
-                <Route exact path="/about" element={<About />} />
-                <Route exact path="/portfolio" element={<Portfolio />} />
-                <Route exact path="/contact" element={<Contact />} />
+                <Route exact path="/My-Portfolio" element={<Main />} />
+                <Route exact path="/My-Portfolio/about" element={<About />} />
+                <Route exact path="/My-Portfolio/portfolio" element={<Portfolio />} />
+                <Route exact path="/My-Portfolio/contact" element={<Contact />} />
               </Routes>
           </div>
           <Footer />

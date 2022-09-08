@@ -12,13 +12,13 @@ export default function navCollapse() {
       <div className="" id="navbarResponsive">
         <ul className="d-flex flex-row">
           <li className="">
-            <Link className="" to='/about'>About</Link>
+            <Link className="" to='/My-Portfolio/about'>About</Link>
           </li>
           <li className="">
-            <Link className="" to='/portfolio'>Portfolio</Link>
+            <Link className="" to='/My-Portfolio/portfolio'>Portfolio</Link>
           </li>
           <li className="">
-            <Link className="" to='/contact'>Contact</Link>
+            <Link className="" to='/My-Portfolio/contact'>Contact</Link>
           </li>
           <li className="">
             <a className="" href="https://1drv.ms/b/s!AjbK_Cd8W85egfM7DSjzINlw1ZHZpA" target="_blank" rel="noreferrer">Resume</a>
