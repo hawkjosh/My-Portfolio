@@ -14,7 +14,7 @@ export default function Contact() {
           <div className="divider-custom-line"></div>
         </div>
         <div className="container">
-          <form target="_blank" action="https://formsubmit.co/hawkjosh@icloud.com" method="POST">
+          <form target="_blank" action="https://formsubmit.co/fdc600bd598b4f6fe804872e952a9823" method="POST">
             <div className="form-group" id="contactForm">
               <div className="form-row">
                 <div className="col mb-2">

@@ -14,7 +14,7 @@ export default function App() {
           <Navigation />
             <div>
               <Routes>
-                <Route exact path="/module20-react-portfolio-challenge" element={<Main />} />
+                <Route exact path="/" element={<Main />} />
                 <Route exact path="/about" element={<About />} />
                 <Route exact path="/portfolio" element={<Portfolio />} />
                 <Route exact path="/contact" element={<Contact />} />
