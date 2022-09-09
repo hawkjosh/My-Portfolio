@@ -18,7 +18,7 @@ export default function Contact() {
           <div className=""></div>
         </div>
       </div>
-      <form target="_blank" action="https://formsubmit.co/hawkjosh@icloud.com" method="POST">
+      <form target="_blank" action="https://formsubmit.co/fdc600bd598b4f6fe804872e952a9823" method="POST">
         <div className="">
           <div className="">
             <div className="">

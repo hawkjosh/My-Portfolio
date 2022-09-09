@@ -9,15 +9,15 @@ export default function Main() {
       <div className="container d-flex align-items-center flex-column">
         <img className="masthead-avatar mb-4" src={myAvatar} alt="Josh Hawk Avatar" style={{width: "25%", height: "auto"}} />
 
-          <h1 className="masthead-heading text-uppercase mb-2">Josh Hawk</h1>
+        <h1 className="masthead-heading text-uppercase mb-2">Josh Hawk</h1>
 
-          <div className="divider-custom divider-light mb-3">
-            <div className="divider-custom-line"></div>
-              <div className="divider-custom-icon fs-1">
-                <FontAwesomeIcon icon="fa-regular fa-star" />
-              </div>
-            <div className="divider-custom-line"></div>
-          </div>
+        <div className="divider-custom divider-light mb-3">
+          <div className="divider-custom-line"></div>
+            <div className="divider-custom-icon fs-1">
+              <FontAwesomeIcon icon="fa-regular fa-star" />
+            </div>
+          <div className="divider-custom-line"></div>
+        </div>
         
         <div className="masthead-subheading font-weight-light d-flex flex-row justify-content-center">
           <Stack direction="horizontal" gap={5}>

@@ -29,7 +29,7 @@ import WebPack from '../assets/img/toolbox/webpack.png';
 import Stack from 'react-bootstrap/Stack'
 
 
-const icon = { width: '2rem', margin: "15px 20px"};
+const icon = { width: '1.5rem', margin: "10px 15px"};
 
 export default function Toolbox() {
   return (
@@ -38,7 +38,7 @@ export default function Toolbox() {
           <h2>My Toolbox</h2>
         </div>
 
-          <Stack className="container flex-wrap justify-content-center mx-0" direction="horizontal" gap={3}>
+          <Stack className="flex-wrap justify-content-center mx-0" direction="horizontal" gap={2}>
             <img src={Apollo} alt="Apollo" style={icon} />
             <img src={Babel} alt="Babel" style={icon} />
             <img src={Bootstrap} alt="Bootstrap" style={icon} />
