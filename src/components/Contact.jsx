@@ -23,9 +23,9 @@ export default function Contact() {
                 <div className="col mb-2">
                   <input type="email" name="email" className="form-control" placeholder="Email Address" required></input>
                 </div>
-                <div className="form-group mb-2">
+                <div className="form-group mb-2 text-center">
                   <textarea placeholder="Your Message" className="form-control" name="message" rows="10" required></textarea>
-                  <button type="submit" className="btn btn-lg btn-secondary btn-block">Submit Form</button>
+                  <button type="submit" className="btn btn-lg btn-secondary btn-block mt-3">Submit Form</button>
                 </div>
               </div>
             </div>

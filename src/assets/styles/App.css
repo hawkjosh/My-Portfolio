@@ -607,8 +607,8 @@ progress {
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 0.125rem solid #dee2e6;
-  border-radius: 0.5rem;
+  border: 0.125rem solid #2c3e50;
+  border-radius: 1rem;
   max-width: 100%;
   height: auto;
 }
@@ -3944,8 +3944,8 @@ textarea.form-control-lg {
   display: block;
   padding: 0.5rem 1rem;
   color: white;
-  font-size: 1.5rem;
-  text-align: right;
+  font-size: 1.25rem;
+  text-align: left;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -4051,14 +4051,14 @@ textarea.form-control-lg {
 .navbar > .container-xxl {
   display: flex;
   flex-wrap: inherit;
-  align-items: center;
+  align-items: start;
   justify-content: space-between;
 }
 .navbar-brand {
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  margin-right: 2rem;
+  font-size: 1.75rem;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -11384,7 +11384,7 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav {
-  margin-top: 1rem;
+  margin-top: 0rem;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #fff;
@@ -11410,8 +11410,8 @@ html {
     transition: padding-top 0.3s, padding-bottom 0.3s;
   }
   #mainNav .navbar-brand {
-    font-size: 1.75em;
-    transition: font-size 0.3s;
+    font-size: 2rem;
+    transition: font-size 0.5s;
   }
   #mainNav .navbar-nav {
     margin-top: 0;
@@ -11427,13 +11427,13 @@ html {
 
   #mainNav.navbar-shrink {
     /* PIN My Change */
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
+    padding-top: 0.01rem;
+    padding-bottom: 0.01rem;
     /* padding-top: 0.5rem;
     padding-bottom: 0.5rem; */
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-size: 1.5em;
+    font-size: 1.75em;
   }
 }
 .form-floating input.form-control,
