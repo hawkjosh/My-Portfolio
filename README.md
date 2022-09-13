@@ -1,4 +1,4 @@
-# module20-react-portfolio-challenge
+# My-Portfolio
 
 ## Description
 
@@ -10,4 +10,4 @@ In this challenge, I created a portfolio web app using React to introduce myself
 
 ## Link
 
-To view the deployed web app, [CLICK HERE](https://hawkjosh.github.io/).
+To view the deployed web app, [CLICK HERE](https://hawkjosh.github.io/My-Portfolio/).
