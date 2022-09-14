@@ -33,7 +33,7 @@ export default function Modals() {
                         <a className="project-link text-white fw-bold" href="https://stayintouchnetwork.herokuapp.com/" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>Web App</a>
                       </button>
                       <button className="btn btn-secondary col-4">
-                        <a className="project-link text-white fw-bold" href="https://github.com/GTBCP3G5/Stay-In-Touch-Social-Network" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
+                        <a className="project-link text-white fw-bold" href="https://github.com/hawkjosh/Social-Network" target="_blank" rel="noreferrer" style={{textDecoration: "none"}}>GitHub Repo</a>
                       </button>
                     </div>
                   </div>
